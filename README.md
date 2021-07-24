@@ -8,7 +8,7 @@
 
 1. 将小米摄像机的储存卡取出，将其通过读卡器连接电脑；
 
-2. [下载本工具](https://github.com/tasy5kg/MiCameraVideoExporter/issues/archive/refs/tags/1.zip)并解压到任意目录；
+2. [下载本工具](https://github.com/tasy5kg/MiCameraVideoExporter/archive/refs/tags/1.zip)并解压到任意目录；
 
 3. 运行 ```小米摄像机视频导出工具.cmd```，根据提示，输入储存卡所在的盘符，以及要导出的视频的日期和时间；
 
