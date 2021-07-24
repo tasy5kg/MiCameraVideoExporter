@@ -4,6 +4,12 @@ echo 小米摄像机视频导出工具 - tasy5kg@qq.com
 echo.
 echo 本工具可将小米摄像机录制的视频以小时为单位导出。
 echo.
+if not exist %cd%\bin\ffmpeg.exe (
+echo 缺少运行所需的组件，请完整解压压缩包，然后重新运行本工具。
+echo 按任意键退出。
+pause > nul
+exit /b
+)
 echo 请将摄像机的储存卡取出，将其通过读卡器连接此电脑。
 echo 连接好后，打开文件资源管理器，查看储存卡的盘符。
 echo 最后，将盘符输入到本窗口。
@@ -45,6 +51,7 @@ echo.
 echo 正在导出视频，大约需要一分钟。
 echo 导出过程中，不要关闭此窗口或拔出储存卡。
 set timestamp=%time::=.%
+set timestamp=%timestamp: =.%
 set video_source_dir=%driver%:\record\%video_date%\%video_hour%
 set working_directory=%cd%
 set file_list_path=%temp%\tasy5kg_file_list_%timestamp%.txt
