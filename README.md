@@ -16,7 +16,12 @@
 
 ## 支持的摄像机机型
 
-此工具仅在 小米智能摄像机标准版 上测试可用，其它机型未测试。如果你在使用其它型号的小米摄像机，欢迎试用此工具，并通过 [Issue](https://github.com/tasy5kg/MiCameraVideoExporter/issues) 反馈是否可用。感谢你的反馈。
+此工具仅在
+
+- 小米智能摄像机标准版
+- 小米智能摄像机云台版2K（[感谢@pinglun](https://github.com/tasy5kg/MiCameraVideoExporter/issues/1)）
+
+上测试可用，其它机型未测试。如果你在使用其它型号的小米摄像机，欢迎试用此工具，并通过 [Issue](https://github.com/tasy5kg/MiCameraVideoExporter/issues) 反馈是否可用。感谢你的反馈。
 
 ## 第三方库
 

@@ -1,6 +1,7 @@
 @echo off
 cls
-echo 小米摄像机视频导出工具 - tasy5kg@qq.com
+echo 小米摄像机视频导出工具 - 适用于小米智能摄像机标准版
+echo tasy5kg@qq.com
 echo.
 echo 本工具可将小米摄像机录制的视频以小时为单位导出。
 echo.
