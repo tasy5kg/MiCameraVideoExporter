@@ -8,20 +8,20 @@
 
 1. 将小米摄像机的储存卡取出，将其通过读卡器连接电脑；
 
-2. [下载本工具](https://github.com/tasy5kg/MiCameraVideoExporter/releases/download/1/1.zip)并解压到任意目录；
+2. [下载本工具](https://github.com/tasy5kg/MiCameraVideoExporter/releases/download/2/2.zip)并解压到任意目录；
 
-3. 运行 ```小米摄像机视频导出工具.cmd```，根据提示，输入储存卡所在的盘符，以及要导出的视频的日期和时间；
+3. 选择与你的摄像机机型匹配的```小米摄像机视频导出工具-*.cmd```（```*```为机型名称），运行，然后按照提示，输入储存卡所在的盘符，以及要导出的视频的日期和时间；
 
 4. 只需大约一分钟，即可完成导出。
 
 ## 支持的摄像机机型
 
-此工具仅在
+此工具仅适配了：
 
 - 小米智能摄像机标准版
 - 小米智能摄像机云台版2K（[感谢@pinglun](https://github.com/tasy5kg/MiCameraVideoExporter/issues/1)）
 
-上测试可用，其它机型未测试。如果你在使用其它型号的小米摄像机，欢迎试用此工具，并通过 [Issue](https://github.com/tasy5kg/MiCameraVideoExporter/issues) 反馈是否可用。感谢你的反馈。
+其它机型未测试是否可用。如果你使用的是其它型号的小米摄像机，欢迎试用现有的版本，并通过 [Issue](https://github.com/tasy5kg/MiCameraVideoExporter/issues) 反馈是否可用。感谢你的反馈。
 
 ## 第三方库
 
