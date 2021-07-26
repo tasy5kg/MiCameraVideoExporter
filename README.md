@@ -16,7 +16,7 @@
 
 ## 支持的摄像机机型
 
-此工具仅适配了：
+此工具已适配：
 
 - 小米智能摄像机标准版
 - 小米智能摄像机云台版2K（[感谢@pinglun](https://github.com/tasy5kg/MiCameraVideoExporter/issues/1)）
